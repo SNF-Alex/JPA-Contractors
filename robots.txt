@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jpacontractors.com/sitemap.xml
+
+# Allow search engines to crawl everything
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /

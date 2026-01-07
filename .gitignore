@@ -1,0 +1,23 @@
+# Ignore all documentation files except main README
+ACTION_CHECKLIST.md
+CHANGES_SUMMARY.md
+CUSTOMIZATION_GUIDE.md
+IMAGE_REPLACEMENT_QUICK_REF.md
+UPDATE_LATEST.md
+
+# Keep these files:
+# - README.md (main project documentation)
+# - CNAME (domain configuration)
+# - index.html (homepage)
+# - contact.html (contact page)
+# - robots.txt (SEO)
+# - sitemap.xml (SEO)
+
+# General ignores
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.vscode/
+.idea/
+node_modules/
